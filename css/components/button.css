@@ -1,0 +1,26 @@
+.linkedin	{
+background-color: #0B65C2;
+padding: 15px 20px;
+border-radius: 4px;
+color: white;
+font-weight: bold;
+font-family: 'Roboto', serif;
+}
+
+.download-button {
+	background-color: #79787A;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: transparent;
+	font-family: 'Roboto', serif;
+}
+
+.apply-button {
+	background-color: #371272;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: transparent;
+	font-family: 'Roboto', serif;
+}
